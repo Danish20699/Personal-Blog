@@ -4,8 +4,8 @@
 # project--documentation
 
 <p align="center">
-  <a href="https://auasim.github.io/Personal-Blog/" rel="noopener">
- <img width=500px height=200px src="Portfolio.png" alt="Project logo">
+  <a href=" https://danish20699.github.io/Personal-Blog/ rel="noopener">
+ <img width=500px height=200px src="ss.png" alt="Project logo">
   <p>click the image to see the portfolio UI</p></a>
 
 
